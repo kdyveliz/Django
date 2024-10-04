@@ -1,5 +1,6 @@
 # Django_Online_Class
 
+| DATE   |         SUBJECT          |
 | ------ | ------------------------ |
 | 09/13  | Intro & Degisn Pattern   |
 | 09/19  | Template & URLs          |
