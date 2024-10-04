@@ -1,6 +1,5 @@
-# Django class
+# Django_Online_Class
 
-| 진행일 | 주제                     |
 | ------ | ------------------------ |
 | 09/13  | Intro & Degisn Pattern   |
 | 09/19  | Template & URLs          |
